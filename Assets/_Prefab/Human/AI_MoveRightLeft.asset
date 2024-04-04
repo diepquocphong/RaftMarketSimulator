@@ -354,7 +354,7 @@ MonoBehaviour:
     - rid: 269251806502060266
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060267
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
@@ -362,7 +362,7 @@ MonoBehaviour:
     - rid: 269251806502060268
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060269
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
@@ -370,7 +370,7 @@ MonoBehaviour:
     - rid: 269251806502060270
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060271
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
@@ -585,7 +585,7 @@ MonoBehaviour:
     - rid: 269251806502060303
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060304
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
@@ -593,7 +593,7 @@ MonoBehaviour:
     - rid: 269251806502060305
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060306
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
@@ -601,7 +601,7 @@ MonoBehaviour:
     - rid: 269251806502060307
       type: {class: GetStringString, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
-        m_Value: MarkerMoveRandom
+        m_Value: MarkerMoveRandom2
     - rid: 269251806502060308
       type: {class: GetDecimalInteger, ns: GameCreator.Runtime.Common, asm: GameCreator.Runtime.Core}
       data:
